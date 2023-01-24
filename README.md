@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sara-shaw
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently a student studying Web & Mobile Development/Design
+- 🌱 I’m currently a student studying Web & Mobile Development
 
 <!---
 sara-shaw/sara-shaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
